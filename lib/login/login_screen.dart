@@ -1,6 +1,6 @@
 import 'package:auth_ui_demo/common/AuthBackground.dart';
 import 'package:auth_ui_demo/common/SampleLogo.dart';
-import 'package:auth_ui_demo/login/registration/registration_screen.dart';
+import 'package:auth_ui_demo/registration/registration_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
