@@ -1,6 +1,10 @@
 # auth_ui_demo
 
-A new Flutter application.
+An application for demonstrating sample UI for Login and Registration.
+
+[![](http://img.youtube.com/vi/xKovCWmkkfA/0.jpg)](http://www.youtube.com/watch?v=xKovCWmkkfA "")
+
+See speedcoding video on Youtube: https://www.youtube.com/watch?v=xKovCWmkkfA
 
 ## Getting Started
 
