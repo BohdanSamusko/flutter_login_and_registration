@@ -1,0 +1,33 @@
+name: auth_ui_demo
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  flutter_svg: ^0.17.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo_facebook.svg
+    - assets/sample_logo.svg
+    - assets/dots_rectangle.svg
+    - assets/background_circles.svg
+    - assets/striped_oval.svg
+  fonts:
+    - family: Decker
+      fonts:
+        - asset: fonts/DeckerB.ttf
+          weight: 700
+        - asset: fonts/Decker.ttf
